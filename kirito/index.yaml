@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kirito:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-01-12T06:09:52.290525012+07:00"
+    description: A Helm chart for Kirito application
+    digest: 475e2c35979c7f70805d972457d9a8ddc94592a385fdce99ec4571099bae3f89
+    name: kirito
+    type: application
+    urls:
+    - https://ghulammuzz.github.io/helm-charts/kirito/kirito-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-12T06:09:52.289683627+07:00"
