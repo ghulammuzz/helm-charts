@@ -1,8 +1,8 @@
 replicaCount: 2  
   
 image:  
-  repository: repo  
-  tag: tag  
+  repository: 325452764035.dkr.ecr.ap-southeast-1.amazonaws.com/kirito-repo  
+  tag: 725e4158c4743b5b263e14281cb64c156523ae6f  
   pullPolicy: IfNotPresent  
   
 resources:  
