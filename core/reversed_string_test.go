@@ -1,4 +1,4 @@
-package lib1
+package core
 
 import (
 	"testing"

@@ -1,4 +1,4 @@
-package lib1
+package core
 
 func ReversedString(s string) string {
 	charSlice := make([]string, len(s))
